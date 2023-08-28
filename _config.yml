@@ -8,9 +8,9 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: OzCHI23 Adaptive HRI
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
+description: "OzCHI23 Adaptive HRI"
 keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
@@ -19,7 +19,7 @@ pub_year: 2018
 github_username: evanwill
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/xinyanyu93/adaptiveHRI"
 
 # site urls
 # add the url for the domain,
